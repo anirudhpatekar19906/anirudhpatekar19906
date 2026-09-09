@@ -27,11 +27,11 @@ I'm a B.Tech student specializing in Artificial Intelligence and Machine Learnin
 * 📜 **HSC** — Aggregate 60%  ·  **SSC** — Aggregate 82%
 
 **Certifications**
-* ✅ [Data Analyst in Python](./certificates/data-analyst-python.pdf) — *DataCamp*
-* ✅ [Ethical Hacking Certification](./certificates/ethical-hacking.pdf) — *Cisco*
-* ✅ [GenAI Powered Data Analytics Job Simulation](./certificates/tata-genai.pdf) — *Tata / Forage*
-* ✅ [Project Management 101](./certificates/project-management-101.pdf)
-* ✅ [Machine Learning Engineer](./certificates/machine-learning-engineer.pdf) — *DataCamp*
+* ✅ [Data Analyst in Python](./data/data-analyst-python.pdf) — *DataCamp*
+* ✅ [Ethical Hacking Certification](./data/ethical-hacking.pdf) — *Cisco*
+* ✅ [GenAI Powered Data Analytics Job Simulation](./data/tata-genai.pdf) — *Tata / Forage*
+* ✅ [Project Management 101](./data/project-management-101.pdf)
+* ✅ [Machine Learning Engineer](./data/machine-learning-engineer.pdf) — *DataCamp*
 
 ---
 
