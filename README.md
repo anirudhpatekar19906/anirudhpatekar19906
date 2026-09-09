@@ -23,13 +23,15 @@ I'm a B.Tech student specializing in Artificial Intelligence and Machine Learnin
 ## 🎓 Education & Certifications
 
 **Education**
-- 🎓 **B.Tech in AI & ML** — Universal SkillTech University, Mumbai `2024 – 2028` · **CGPA: 7.75**
-- 📜 **HSC** — Aggregate 60% &nbsp;·&nbsp; **SSC** — Aggregate 82%
+* 🎓 **B.Tech in AI & ML** — Universal SkillTech University, Mumbai `2024 – 2028` · **CGPA: 7.75**
+* 📜 **HSC** — Aggregate 60%  ·  **SSC** — Aggregate 82%
 
 **Certifications**
-- ✅ Data Analyst in Python — *DataCamp*
-- ✅ Ethical Hacking Certification — *Cisco*
-- ✅ Machine Learning Engineer — *DataCamp*
+* ✅ [Data Analyst in Python](./certificates/data-analyst-python.pdf) — *DataCamp*
+* ✅ [Ethical Hacking Certification](./certificates/ethical-hacking.pdf) — *Cisco*
+* ✅ [GenAI Powered Data Analytics Job Simulation](./certificates/tata-genai.pdf) — *Tata / Forage*
+* ✅ [Project Management 101](./certificates/project-management-101.pdf)
+* ✅ [Machine Learning Engineer](./certificates/machine-learning-engineer.pdf) — *DataCamp*
 
 ---
 
